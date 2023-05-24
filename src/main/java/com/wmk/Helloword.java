@@ -5,5 +5,6 @@ public class Helloword {
         System.out.println("你好");
         System.out.println("hello world");
         System.out.println("版本3");
+        System.out.println("分子操作");
     }
 }
